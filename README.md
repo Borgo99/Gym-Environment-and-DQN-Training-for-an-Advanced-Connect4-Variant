@@ -4,4 +4,4 @@ The objective of this project is to develop a gym-like environment for an advanc
 
 ## Code
 
-To replicate this study, follow the instruction in the notebook `Train_4inarowEvolution.ipynb`.
+To replicate this study, follow the instructions in the notebook `Train_4inarowEvolution.ipynb`.
